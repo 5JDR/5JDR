@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=5JDR&layout=compact&show_icons=true&theme=dracula)](https://github.com/5JDR/github-readme-stats)
+
+[![Sandro's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=5JDR&layout=compact&show_icons=true&theme=dracula&hide=issues)](https://github.com/5JDR/github-readme-stats)
