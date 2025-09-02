@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-- 📚 I'm a PhD. candidate in [Applied Data Science and Artificial Intelligence](https://phd.units.it/en/dot21l8ayp) at the [University of Trieste](https://portale.units.it/it) 🇮🇹
+- 📚 I'm a PhD. student in [Applied Data Science and Artificial Intelligence](https://phd.units.it/en/dot21l8ayp) at the [University of Trieste](https://portale.units.it/it) 🇮🇹
 - 👨🏽‍🏫 I achieved my BSc. in [Internet of Things, Big Data & Web](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/internet-of-things-big-data-web/corso/internet-of-things-big-data-web) at the [University of Udine](https://www.uniud.it/it) 🇮🇹
 - 👨🏽‍🎓 I achieved my MSc. in [Data Science and Scientific Computing](https://dssc.units.it/) at the [University of Trieste](https://portale.units.it/it) 🇮🇹
 - 👨🏽‍💻 I’m currently working on applications of [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) to [Electronic Design Automation](https://en.wikipedia.org/wiki/Electronic_design_automation)
